@@ -12,6 +12,5 @@ I'm a **Python Backend Developer** passionate about building APIs, bots, and aut
 ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=for-the-badge&logo=fastapi)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
 
 
