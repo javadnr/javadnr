@@ -16,4 +16,4 @@ I'm a **Python Backend Developer** passionate about building APIs, bots, and aut
 
 ## 📊 GitHub Stats
 
-![Javad's GitHub stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical)
+![Javad's GitHub stats](https://github-readme-stats.vercel.app/api?username=javadnr&show_icons=true&theme=radical)
