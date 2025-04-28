@@ -5,7 +5,7 @@ I'm a **Python Backend Developer** passionate about building APIs, bots, and aut
 - 🔭 I’m currently working with **FastAPI**, **Flask**, and **Django**.
 - 🌱 I’m learning about **system design** and **software architecture**.
 - 💬 Ask me about **backend development** or **security**.
-- 📫 How to reach me: [Email](mailto:your_email@example.com) | [Telegram](https://t.me/yourusername)
+- 📫 How to reach me: [Email](javadnamavar554@gmail.com) | [Telegram](https://t.me/javadnamavar)
 
 ## 🚀 Skills
 
