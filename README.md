@@ -14,6 +14,4 @@ I'm a **Python Backend Developer** passionate about building APIs, bots, and aut
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
 
-## 📊 GitHub Stats
 
-![Javad's GitHub stats](https://github-readme-stats.vercel.app/api?username=javadnr&show_icons=true&theme=radical)
